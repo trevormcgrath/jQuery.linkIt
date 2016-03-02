@@ -5,7 +5,7 @@ A simple jQuery plugin that allows you to attach a link to any element on a page
 0.2.0
 
 ##Usage
-Use the below example code to implment a link into an HTML element (in this case, it is a <span>).
+Use the below example code to implment a link into an HTML element (in this case, it is a span tag).
 
     $('span').linkIt({
     	href : 'http://thetargetwebsitehere.com',
