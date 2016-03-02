@@ -1,0 +1,35 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "A plugin that converts any elements wrapped inside span tags into an href link",
+    "keywords": [
+        "links",
+        "html",
+        "page content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Trevor McGrath",
+        "url": "https://github.com/trevormcgrath/jQuery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Trevor McGrath",
+            "email": "trevormcgrath88@gmail.com",
+            "url": "https://github.com/trevormcgrath"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
